@@ -1,0 +1,7 @@
+
+Player name: shitful
+Total units: 25
+Total mines: 2
+Comfirmed units: 20
+Complete pecentage: 86.9565%
+

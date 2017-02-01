@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (Sweep the Thunder.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+  Generating code
+  All 172 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Sweep the Thunder.vcxproj -> D:\Documents\Visual Studio 2015\Projects\Mine Sweeping\Release\Mine Sweeping.exe
+  Sweep the Thunder.vcxproj -> D:\Documents\Visual Studio 2015\Projects\Mine Sweeping\Release\Mine Sweeping.pdb (Full PDB)

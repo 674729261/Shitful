@@ -1,0 +1,77 @@
+
+Player name: ÊºÂú
+Total units: 16
+Total mines: 3
+Comfirmed units: 12
+Complete pecentage: 92.3077%
+
+
+Player name: SHITFUL
+Total units: 16
+Total mines: 1
+Comfirmed units: 15
+Complete pecentage: 100%
+
+
+Player name: SHITFUL
+Total units: 16
+Total mines: 2
+Comfirmed units: 7
+Complete pecentage: 50%
+
+
+Player name: SHITFUL
+Total units: 81
+Total mines: 5
+Comfirmed units: 74
+Complete pecentage: 97.3684%
+
+
+Player name: SHITFUL
+Total units: 81
+Total mines: 55
+Comfirmed units: 0
+Complete pecentage: 0%
+
+
+Player name: ÊºÂú
+Total units: 81
+Total mines: 9
+Comfirmed units: 2
+Complete pecentage: 2.77778%
+
+
+Player name: 9
+Total units: 81
+Total mines: 11
+Comfirmed units: 33
+Complete pecentage: 47.1429%
+
+
+Player name: 6
+Total units: 36
+Total mines: 4
+Comfirmed units: 29
+Complete pecentage: 90.625%
+
+
+Player name: 5
+Total units: 25
+Total mines: 3
+Comfirmed units: 19
+Complete pecentage: 86.3636%
+
+
+Player name: 4
+Total units: 16
+Total mines: 5
+Comfirmed units: 0
+Complete pecentage: 0%
+
+
+Player name: 4 4 2
+Total units: 16
+Total mines: 2
+Comfirmed units: 14
+Complete pecentage: 100%
+
